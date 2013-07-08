@@ -1,0 +1,1290 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="300" height="450" id="svg3245" version="1.1" inkscape:version="0.47 r22583" sodipodi:docname="commercial-building">
+  <title id="title3792">commercial-building</title>
+  <defs id="defs3247">
+    <linearGradient inkscape:collect="always" id="linearGradient4355">
+      <stop style="stop-color:#2e3436;stop-opacity:1;" offset="0" id="stop4357"/>
+      <stop style="stop-color:#2e3436;stop-opacity:0;" offset="1" id="stop4359"/>
+    </linearGradient>
+    <linearGradient inkscape:collect="always" id="linearGradient4345">
+      <stop style="stop-color:#2e3436;stop-opacity:1;" offset="0" id="stop4347"/>
+      <stop style="stop-color:#2e3436;stop-opacity:0;" offset="1" id="stop4349"/>
+    </linearGradient>
+    <linearGradient inkscape:collect="always" id="linearGradient4335">
+      <stop style="stop-color:#2e3436;stop-opacity:1;" offset="0" id="stop4337"/>
+      <stop style="stop-color:#2e3436;stop-opacity:0;" offset="1" id="stop4339"/>
+    </linearGradient>
+    <linearGradient inkscape:collect="always" id="linearGradient4231">
+      <stop style="stop-color:#3465a4;stop-opacity:1;" offset="0" id="stop4233"/>
+      <stop style="stop-color:#3465a4;stop-opacity:0;" offset="1" id="stop4235"/>
+    </linearGradient>
+    <inkscape:perspective sodipodi:type="inkscape:persp3d" inkscape:vp_x="0 : 526.18109 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="744.09448 : 526.18109 : 1" inkscape:persp3d-origin="372.04724 : 350.78739 : 1" id="perspective3253"/>
+    <inkscape:perspective id="perspective3263" inkscape:persp3d-origin="0.5 : 0.33333333 : 1" inkscape:vp_z="1 : 0.5 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_x="0 : 0.5 : 1" sodipodi:type="inkscape:persp3d"/>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient4231" id="linearGradient4237" x1="533.17688" y1="281.88403" x2="576.24872" y2="628.69397" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.25956547,0,0,0.53659373,132.89198,616.55489)"/>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient4231" id="linearGradient4239" x1="533.17688" y1="281.88403" x2="576.24872" y2="628.69397" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.25956547,0,0,0.53659373,132.89198,616.55489)"/>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient4231" id="linearGradient4241" x1="533.17688" y1="281.88403" x2="576.24872" y2="628.69397" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.25956547,0,0,0.53659373,132.89198,616.55489)"/>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient4231" id="linearGradient4243" x1="533.17688" y1="281.88403" x2="576.24872" y2="628.69397" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.25956547,0,0,0.53659373,132.89198,616.55489)"/>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient4231" id="linearGradient4245" x1="533.17688" y1="281.88403" x2="576.24872" y2="628.69397" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.25956547,0,0,0.53659373,132.89198,616.55489)"/>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient4231" id="linearGradient4247" x1="533.17688" y1="281.88403" x2="576.24872" y2="628.69397" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.25956547,0,0,0.53659373,132.89198,616.55489)"/>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient4231" id="linearGradient4249" x1="533.17688" y1="281.88403" x2="576.24872" y2="628.69397" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.25956547,0,0,0.53659373,132.89198,616.55489)"/>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient4231" id="linearGradient4251" x1="533.17688" y1="281.88403" x2="576.24872" y2="628.69397" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.25956547,0,0,0.53659373,132.89198,616.55489)"/>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient4231" id="linearGradient4253" x1="533.17688" y1="281.88403" x2="576.24872" y2="628.69397" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.25956547,0,0,0.53659373,132.89198,616.55489)"/>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient4231" id="linearGradient4255" x1="533.17688" y1="281.88403" x2="576.24872" y2="628.69397" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.25956547,0,0,0.53659373,132.89198,616.55489)"/>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient4231" id="linearGradient4257" x1="533.17688" y1="281.88403" x2="576.24872" y2="628.69397" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.25956547,0,0,0.53659373,132.89198,616.55489)"/>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient4231" id="linearGradient4259" x1="533.17688" y1="281.88403" x2="576.24872" y2="628.69397" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.25956547,0,0,0.53659373,132.89198,616.55489)"/>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient4231" id="linearGradient4261" x1="533.17688" y1="281.88403" x2="576.24872" y2="628.69397" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.25956547,0,0,0.53659373,132.89198,616.55489)"/>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient4231" id="linearGradient4263" x1="533.17688" y1="281.88403" x2="576.24872" y2="628.69397" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.25956547,0,0,0.53659373,132.89198,616.55489)"/>
+    <filter id="filter4265" height="1" width="1" y="0" x="0" inkscape:label="Film grain" inkscape:menu="Image effects" inkscape:menu-tooltip="Adds a small scale graininess" color-interpolation-filters="sRGB">
+      <feTurbulence id="feTurbulence4267" type="fractalNoise" numOctaves="3" baseFrequency="1" seed="0" result="result0"/>
+      <feColorMatrix id="feColorMatrix4269" result="result4" values="0" type="saturate"/>
+      <feComposite id="feComposite4271" in2="result4" in="SourceGraphic" operator="arithmetic" k1="1.25" k2="0.5" k3="0.5" result="result2" k4="0"/>
+      <feBlend id="feBlend4273" in2="SourceGraphic" result="result5" mode="normal" in="result2"/>
+      <feComposite id="feComposite4275" in2="SourceGraphic" in="result5" operator="in" result="result3"/>
+    </filter>
+    <filter id="filter4277" height="1" width="1" y="0" x="0" inkscape:label="Film grain" inkscape:menu="Image effects" inkscape:menu-tooltip="Adds a small scale graininess" color-interpolation-filters="sRGB">
+      <feTurbulence id="feTurbulence4279" type="fractalNoise" numOctaves="3" baseFrequency="1" seed="0" result="result0"/>
+      <feColorMatrix id="feColorMatrix4281" result="result4" values="0" type="saturate"/>
+      <feComposite id="feComposite4283" in2="result4" in="SourceGraphic" operator="arithmetic" k1="1.25" k2="0.5" k3="0.5" result="result2" k4="0"/>
+      <feBlend id="feBlend4285" in2="SourceGraphic" result="result5" mode="normal" in="result2"/>
+      <feComposite id="feComposite4287" in2="SourceGraphic" in="result5" operator="in" result="result3"/>
+    </filter>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient4335" id="linearGradient4341" x1="139.67732" y1="732.45605" x2="229.79173" y2="679.38934" gradientUnits="userSpaceOnUse"/>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient4345" id="linearGradient4351" x1="285.36227" y1="779.01514" x2="220.78029" y2="709.92743" gradientUnits="userSpaceOnUse"/>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient4355" id="linearGradient4361" x1="564.71692" y1="733.95795" x2="385.49002" y2="673.38171" gradientUnits="userSpaceOnUse"/>
+    <filter id="filter6966" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology6968" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite6970" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur6972" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting6974" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight6976" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend6978" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite6980" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter6982" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology6984" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite6986" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur6988" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting6990" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight6992" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend6994" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite6996" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter6998" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7000" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7002" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7004" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7006" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7008" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7010" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7012" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7014" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7016" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7018" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7020" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7022" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7024" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7026" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7028" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7030" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7032" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7034" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7036" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7038" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7040" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7042" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7044" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7046" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7048" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7050" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7052" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7054" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7056" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7058" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7060" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7062" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7064" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7066" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7068" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7070" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7072" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7074" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7076" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7078" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7080" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7082" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7084" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7086" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7088" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7090" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7092" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7094" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7096" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7098" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7100" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7102" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7104" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7106" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7108" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7110" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7112" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7114" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7116" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7118" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7120" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7122" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7124" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7126" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7128" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7130" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7132" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7134" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7136" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7138" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7140" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7142" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7144" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7146" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7148" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7150" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7152" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7154" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7156" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7158" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7160" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7162" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7164" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7166" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7168" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7170" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7172" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7174" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7176" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7178" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7180" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7182" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7184" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7186" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7188" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7190" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7192" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7194" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7196" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7198" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7200" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7202" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7204" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7206" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7208" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7210" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7212" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7214" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7216" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7218" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7220" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7222" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7224" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7226" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7228" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7230" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7232" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7234" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7236" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7238" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7240" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7242" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7244" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7246" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7248" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7250" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7252" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7254" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7256" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7258" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7260" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7262" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7264" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7266" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7268" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7270" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7272" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7274" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7276" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7278" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7280" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7282" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7284" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7286" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7288" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7290" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7292" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7294" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7296" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7298" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7300" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7302" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7304" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7306" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7308" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7310" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7312" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7314" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7316" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7318" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7320" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7322" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7324" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7326" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7328" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7330" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7332" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7334" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7336" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7338" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7340" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7342" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7344" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7346" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7348" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7350" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7352" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7354" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7356" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7358" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7360" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7362" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7364" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7366" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7368" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7370" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7372" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7374" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7376" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7378" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7380" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7382" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7384" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7386" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7388" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7390" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7392" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7394" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7396" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7398" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7400" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7402" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7404" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7406" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7408" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7410" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7412" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7414" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7416" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7418" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7420" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7422" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7424" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7426" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7428" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7430" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7432" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7434" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7436" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7438" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7440" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7442" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7444" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7446" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7448" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7450" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7452" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7454" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7456" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7458" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7460" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7462" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7464" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7466" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7468" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7470" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7472" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7474" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7476" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7478" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7480" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7482" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7484" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7486" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7488" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7490" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7492" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7494" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7496" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7498" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7500" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7502" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7504" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7506" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7508" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7510" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7512" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7514" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7516" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7518" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7520" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7522" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7524" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7526" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7528" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7530" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7532" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7534" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7536" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7538" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7540" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7542" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7544" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7546" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7548" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7550" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7552" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7554" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7556" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7558" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7560" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7562" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7564" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7566" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7568" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7570" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7572" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7574" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7576" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7578" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7580" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7582" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7584" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7586" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7588" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7590" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7592" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7594" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7596" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7598" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7600" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7602" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7604" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7606" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7608" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7610" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7612" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7614" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7616" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7618" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7620" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7622" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7624" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7626" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7628" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7630" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7632" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7634" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7636" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7638" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7640" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7642" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7644" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7646" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7648" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7650" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7652" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7654" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7656" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7658" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7660" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7662" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7664" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7666" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7668" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7670" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7672" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7674" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7676" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7678" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7680" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7682" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7684" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7686" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7688" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7690" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7692" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7694" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7696" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7698" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7700" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7702" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7704" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7706" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7708" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7710" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7712" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7714" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7716" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7718" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7720" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7722" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7724" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7726" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7728" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7730" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7732" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7734" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7736" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7738" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7740" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7742" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7744" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7746" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7748" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7750" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7752" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7754" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7756" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7758" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7760" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7762" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7764" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7766" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7768" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7770" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7772" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7774" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7776" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7778" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7780" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7782" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7784" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7786" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7788" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7790" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7792" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7794" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7796" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7798" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7800" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7802" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7804" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7806" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7808" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7810" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7812" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7814" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7816" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7818" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7820" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7822" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7824" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7826" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7828" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7830" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7832" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7834" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7836" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7838" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7840" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7842" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7844" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7846" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7848" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7850" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7852" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7854" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7856" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7858" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7860" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7862" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7864" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7866" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7868" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7870" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7872" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7874" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7876" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7878" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7880" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7882" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7884" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7886" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7888" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7890" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7892" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7894" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7896" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7898" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7900" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7902" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7904" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7906" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7908" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7910" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7912" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7914" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7916" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7918" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7920" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7922" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7924" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7926" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7928" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7930" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7932" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7934" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7936" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7938" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7940" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7942" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7944" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7946" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7948" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7950" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7952" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7954" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7956" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7958" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7960" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7962" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7964" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7966" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7968" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7970" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7972" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7974" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7976" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7978" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7980" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7982" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight7984" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend7986" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite7988" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter7990" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology7992" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite7994" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur7996" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting7998" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight8000" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend8002" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite8004" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter8006" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology8008" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite8010" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur8012" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting8014" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight8016" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend8018" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite8020" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter8022" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology8024" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite8026" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur8028" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting8030" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight8032" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend8034" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite8036" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter8038" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology8040" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite8042" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur8044" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting8046" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight8048" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend8050" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite8052" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter8054" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology8056" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite8058" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur8060" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting8062" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight8064" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend8066" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite8068" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter8070" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology8072" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite8074" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur8076" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting8078" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight8080" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend8082" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite8084" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter8086" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology8088" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite8090" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur8092" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting8094" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight8096" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend8098" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite8100" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter8102" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology8104" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite8106" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur8108" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting8110" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight8112" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend8114" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite8116" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter8118" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology8120" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite8122" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur8124" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting8126" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight8128" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend8130" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite8132" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter8134" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology8136" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite8138" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur8140" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting8142" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight8144" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend8146" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite8148" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter8150" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology8152" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite8154" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur8156" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting8158" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight8160" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend8162" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite8164" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter8166" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology8168" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite8170" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur8172" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting8174" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight8176" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend8178" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite8180" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter8182" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology8184" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite8186" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur8188" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting8190" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight8192" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend8194" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite8196" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter8198" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology8200" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite8202" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur8204" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting8206" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight8208" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend8210" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite8212" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter8214" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology8216" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite8218" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur8220" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting8222" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight8224" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend8226" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite8228" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter8230" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology8232" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite8234" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur8236" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting8238" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight8240" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend8242" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite8244" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter8246" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology8248" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite8250" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur8252" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting8254" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight8256" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend8258" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite8260" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter8262" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology8264" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite8266" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur8268" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting8270" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight8272" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend8274" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite8276" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter8278" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology8280" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite8282" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur8284" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting8286" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight8288" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend8290" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite8292" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter8294" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology8296" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite8298" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur8300" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting8302" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight8304" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend8306" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite8308" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter8310" inkscape:label="Ridged border" inkscape:menu="Bevels" inkscape:menu-tooltip="Ridged border with inner bevel" color-interpolation-filters="sRGB">
+      <feMorphology id="feMorphology8312" radius="4.3" in="SourceAlpha" result="result91"/>
+      <feComposite id="feComposite8314" in2="result91" operator="out" in="SourceGraphic"/>
+      <feGaussianBlur id="feGaussianBlur8316" result="result0" stdDeviation="1.2"/>
+      <feDiffuseLighting id="feDiffuseLighting8318" diffuseConstant="1" result="result92">
+        <feDistantLight id="feDistantLight8320" elevation="66" azimuth="225"/>
+      </feDiffuseLighting>
+      <feBlend id="feBlend8322" in2="SourceGraphic" mode="multiply" result="result93"/>
+      <feComposite id="feComposite8324" in2="SourceAlpha" operator="in"/>
+    </filter>
+    <filter id="filter9024" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9026" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9028" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9030" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9032" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9034" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9036" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9038" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9040" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9042" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9044" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9046" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9048" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9050" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9052" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9054" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9056" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9058" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9060" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9062" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9064" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9066" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9068" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9070" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9072" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9074" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9076" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9078" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9080" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9082" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9084" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9086" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9088" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9090" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9092" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9094" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9096" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9098" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9100" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9102" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9104" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9106" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9108" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9110" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9112" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9114" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9116" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9118" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9120" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9122" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9124" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9126" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9128" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9130" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9132" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9134" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9136" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9138" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9140" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9142" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9144" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9146" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9148" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9150" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9152" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9154" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9156" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9158" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9160" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9162" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9164" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9166" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9168" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9170" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9172" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9174" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9176" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9178" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9180" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9182" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9184" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9186" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9188" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9190" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9192" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9194" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9196" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9198" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9200" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9202" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9204" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9206" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9208" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9210" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9212" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9214" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9216" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9218" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9220" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9222" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9224" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9226" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9228" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9230" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9232" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9234" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9236" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9238" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9240" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9242" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9244" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9246" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9248" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9250" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9252" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9254" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9256" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9258" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9260" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9262" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9264" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9266" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9268" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9270" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9272" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9274" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9276" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9278" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9280" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9282" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9284" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9286" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9288" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9290" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9292" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9294" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9296" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9298" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9300" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9302" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9304" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9306" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9308" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9310" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9312" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9314" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9316" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9318" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9320" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9322" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9324" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9326" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9328" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9330" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9332" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9334" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9336" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9338" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9340" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9342" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9344" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9346" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9348" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9350" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9352" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9354" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9356" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9358" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9360" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9362" type="saturate" values="0"/>
+    </filter>
+    <filter id="filter9364" inkscape:label="Desaturate" x="0" y="0" width="1" height="1" inkscape:menu="Color" inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero" color-interpolation-filters="sRGB">
+      <feColorMatrix id="feColorMatrix9366" type="saturate" values="0"/>
+    </filter>
+  </defs>
+  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="0.079651356" inkscape:cx="2620.5689" inkscape:cy="1916.1625" inkscape:document-units="px" inkscape:current-layer="layer1" showgrid="false" inkscape:window-width="1280" inkscape:window-height="712" inkscape:window-x="-4" inkscape:window-y="-4" inkscape:window-maximized="1" showguides="true" inkscape:guide-bbox="true">
+    <sodipodi:guide orientation="1,0" position="-1971.0876,-33.98427" id="guide4408"/>
+  </sodipodi:namedview>
+  <g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(0,-602.36218)">
+    <path id="path4141" d="m 286.97116,978.00182 2.84458,-110.73624 -2.84458,-4.8724 0.28448,-3.54356 -54.61608,-102.32028 0,232.10315 54.3316,-10.63067 z" style="fill:#75507b;fill-opacity:1;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+    <path sodipodi:nodetypes="ccccc" id="path4143" d="m 287.39785,951.53586 0,9.96626 -37.47742,-7.41933 0.42669,-17.82853 37.05073,15.2816 z" style="fill:#7d92d3;fill-opacity:1;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+    <path style="fill:#7d92d3;fill-opacity:1;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 287.68233,936.14352 -0.0712,13.39909 -37.2641,-16.05677 -0.14223,-21.59355 37.47744,24.25123 z" id="path4145" sodipodi:nodetypes="ccccc"/>
+    <path sodipodi:nodetypes="ccccc" id="path4147" d="m 287.96677,919.53309 -0.0712,13.28835 -37.61966,-24.47272 -0.14224,-23.25461 37.83301,34.43898 z" style="fill:#7d92d3;fill-opacity:1;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+    <path style="fill:#7d92d3;fill-opacity:1;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 288.39347,903.91927 0.0712,13.28835 -38.18858,-35.54634 0.21334,-23.14386 37.90413,45.40185 z" id="path4149" sodipodi:nodetypes="ccccc"/>
+    <path sodipodi:nodetypes="ccccc" id="path4151" d="m 288.74905,886.75515 -0.0712,12.95614 -38.18857,-45.73407 0.0712,-22.14722 38.1886,54.92515 z" style="fill:#7d92d3;fill-opacity:1;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+    <path id="path4153" d="m 288.89128,871.25209 -38.40194,-65.88808 0.0712,21.15064 38.25971,57.36136 0.0712,-12.62392 z" style="fill:#7a8dc7;fill-opacity:1;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+    <path id="path4155" d="m 232.07063,757.85817 -31.5749,54.92518 3.98241,170.5338 27.59249,5.31534 0,-230.77432 z" style="fill:#1a1f2e;fill-opacity:1;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+    <path sodipodi:nodetypes="ccccc" style="fill:#7a8dc7;fill-opacity:1;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 201.37233,821.61392 21.95824,-40.73231 -0.0407,20.74614 -21.87691,31.11093 -0.0406,-11.12476 z" id="path4157"/>
+    <path style="fill:#7d92d3;fill-opacity:1;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 201.45365,836.94214 -0.2438,14.55192 22.12072,-22.82669 -0.0407,-21.81476 -21.83626,30.08953 z" id="path4159" sodipodi:nodetypes="ccccc"/>
+    <path sodipodi:nodetypes="ccccc" id="path4161" d="m 201.65697,854.03664 -0.0406,16.11829 21.83625,-14.1412 -0.12199,-22.88346 -21.6736,20.90637 z" style="fill:#7d92d3;fill-opacity:1;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+    <path style="fill:#7d92d3;fill-opacity:1;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 202.1854,874.52413 0.32512,17.09319 20.94204,-9.37041 0.0813,-22.76977 -21.34848,15.04699 z" id="path4163" sodipodi:nodetypes="ccccc"/>
+    <path sodipodi:nodetypes="ccccc" id="path4165" d="m 204.05481,895.90227 0.0406,18.08791 19.31641,-7.07852 -0.48757,-23.35172 -18.86951,12.34233 z" style="fill:#7d92d3;fill-opacity:1;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+    <path style="fill:#7d92d3;fill-opacity:1;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 203.93301,918.74071 0.28446,14.22607 19.43841,-5.54171 -0.24399,-17.79211 -19.47888,9.10775 z" id="path4167" sodipodi:nodetypes="ccccc"/>
+    <path id="path4169" d="m 286.11781,865.93674 -1.42232,94.79023" style="fill:none;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+    <path style="fill:none;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 282.41983,859.7355 -1.42229,94.79024" id="path4171"/>
+    <path id="path4173" d="m 282.41983,859.73551 -1.42229,99.66264" style="fill:none;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+    <path style="fill:none;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 275.59281,850.43368 -1.42227,107.1927" id="path4175"/>
+    <path id="path4177" d="m 266.7746,834.48767 -1.42228,121.80987" style="fill:none;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+    <path style="fill:none;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 257.67193,817.21282 -1.42229,136.42706" id="path4179"/>
+    <path style="fill:none;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 203.71911,814.48538 1.73846,113.89563" id="path4181"/>
+    <path id="path4183" d="m 208.23915,806.13369 1.73846,93.96312" style="fill:none;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+    <path style="fill:none;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 208.23915,806.13372 1.73846,120.98276" id="path4185"/>
+    <path id="path4187" d="m 216.5838,792.8618 1.73848,133.38524" style="fill:none;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+    <path id="path4189" d="m 283.17742,859.7355 -1.42229,94.79024" style="fill:none;stroke:#96a9c0;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+    <path style="fill:none;stroke:#96a9c0;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="M 267.53219,834.48767 266.1099,956.29754" id="path4191"/>
+    <path id="path4193" d="m 258.42953,817.21282 -1.42231,136.42706" style="fill:none;stroke:#96a9c0;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+    <path style="fill:none;stroke:#5792af;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 208.99673,806.13369 1.73848,93.96312" id="path4197"/>
+    <path id="path4199" d="m 208.99673,806.13372 1.73848,120.98276" style="fill:none;stroke:#5792af;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+    <path style="fill:none;stroke:#5792af;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 217.3414,792.8618 1.73847,133.38524" id="path4201"/>
+    <path style="fill:#40496e;fill-opacity:1;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="M 41.90368,979.61154 33.5869,801.6941 l 8.31678,-7.82838 -0.83168,-5.69335 159.68282,-164.39575 0,372.91499 -158.85114,-17.08007 z" id="path3289"/>
+    <path style="fill:#7d92d3;fill-opacity:1;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 40.65622,937.08929 0,16.01258 109.57397,-11.92048 -1.2475,-28.64469 -108.32647,24.55259 z" id="path3287" sodipodi:nodetypes="ccccc"/>
+    <path sodipodi:nodetypes="ccccc" id="path3285" d="m 39.82454,912.35877 0.20791,21.52801 108.95024,-25.79804 0.41582,-34.6939 -109.57397,38.96393 z" style="fill:#7d92d3;fill-opacity:1;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+    <path style="fill:#7d92d3;fill-opacity:1;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 38.99286,885.67114 0.20791,21.35011 109.98983,-39.31976 0.41586,-37.36267 -110.6136,55.33232 z" id="path3283" sodipodi:nodetypes="ccccc"/>
+    <path sodipodi:nodetypes="ccccc" id="path3281" d="M 37.74529,860.58478 37.53734,881.93487 149.1906,824.82338 148.56683,787.63862 37.74529,860.58478 z" style="fill:#7d92d3;fill-opacity:1;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+    <path style="fill:#7d92d3;fill-opacity:1;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="M 36.70566,833.00758 36.91361,853.82393 148.56683,780.344 148.35892,744.76053 36.70566,833.00758 z" id="path3279" sodipodi:nodetypes="ccccc"/>
+    <path style="fill:#7a8dc7;fill-opacity:1;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 36.28988,808.09913 112.27695,-105.86087 -0.20791,33.98222 -111.8611,92.16125 -0.20794,-20.2826 z" id="path3277"/>
+    <path style="fill:#1a1f2e;fill-opacity:1;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 200.79766,625.76992 34.73149,89.93085 -4.38058,279.22076 -30.35091,8.70297 0,-377.85458 z" id="path3291"/>
+    <path id="path3293" d="m 232.02207,746.1638 -21.95828,-61.09848 0.0406,31.11916 21.87694,46.6664 0.0406,-16.68708 z" style="fill:#7a8dc7;fill-opacity:1;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" sodipodi:nodetypes="ccccc"/>
+    <path sodipodi:nodetypes="ccccc" id="path3295" d="m 231.94074,769.15611 0.24378,21.82787 -22.12073,-34.24003 0.0406,-32.72217 21.83628,45.13433 z" style="fill:#7d92d3;fill-opacity:1;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+    <path style="fill:#7d92d3;fill-opacity:1;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 231.73741,794.79785 0.0406,24.17742 -21.83627,-21.21177 0.12198,-34.32518 21.67362,31.35953 z" id="path3297" sodipodi:nodetypes="ccccc"/>
+    <path sodipodi:nodetypes="ccccc" id="path3299" d="m 231.20897,825.5291 -0.32512,25.63975 -20.94204,-14.05559 -0.0813,-34.15465 21.34849,22.57049 z" style="fill:#7d92d3;fill-opacity:1;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+    <path style="fill:#7d92d3;fill-opacity:1;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 229.33956,857.59628 -0.0407,27.13188 -19.31641,-10.61779 0.4876,-35.02755 18.86949,18.51346 z" id="path3301" sodipodi:nodetypes="ccccc"/>
+    <path sodipodi:nodetypes="ccccc" id="path3303" d="m 229.46138,891.85394 -0.28447,21.33911 -19.43841,-8.31256 0.24398,-26.68816 19.4789,13.66161 z" style="fill:#7d92d3;fill-opacity:1;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+    <path style="fill:none;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 44.3988,799.55911 4.1584,152.29733" id="path3305"/>
+    <path id="path3307" d="m 55.21062,789.59571 4.15841,152.29735" style="fill:none;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+    <path style="fill:none;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 55.21062,789.59574 4.15841,160.12571" id="path3309"/>
+    <path id="path3311" d="m 75.17096,774.6507 4.15841,172.2241" style="fill:none;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+    <path style="fill:none;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 100.9531,749.03058 4.15838,195.7092" id="path3313"/>
+    <path id="path3315" d="m 127.5669,721.27547 4.1584,219.19431" style="fill:none;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+    <path id="path3321" d="M 229.67527,735.47095 227.9368,906.3144" style="fill:none;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+    <path style="fill:none;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 225.15525,722.94342 -1.73848,140.9447" id="path3323"/>
+    <path id="path3325" d="M 225.15525,722.94345 223.41677,904.4176" style="fill:none;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+    <path style="fill:none;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 216.81057,703.03558 -1.73848,200.07786" id="path3327"/>
+    <path style="fill:none;stroke:#96a9c0;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 52.99564,789.59571 4.15839,152.29735" id="path3329"/>
+    <path id="path3331" d="m 98.73809,749.03058 4.1584,195.7092" style="fill:none;stroke:#96a9c0;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+    <path style="fill:none;stroke:#96a9c0;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 125.3519,721.27547 4.15839,219.19431" id="path3333"/>
+    <path style="fill:none;stroke:#5792af;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="M 228.91766,735.47095 227.1792,906.3144" id="path4107"/>
+    <path id="path4109" d="m 224.39764,722.94342 -1.73848,140.9447" style="fill:none;stroke:#5792af;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+    <path style="fill:none;stroke:#5792af;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="M 224.39764,722.94345 222.65916,904.4176" id="path4111"/>
+    <path id="path4113" d="m 216.05299,703.03558 -1.73848,200.07786" style="fill:none;stroke:#5792af;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+    <path sodipodi:nodetypes="ccccc" id="path4203" d="m 287.68233,936.14352 -0.0712,13.39909 -37.2641,-16.05677 -0.14223,-21.59355 37.47744,24.25123 z" style="fill:url(#linearGradient4237);fill-opacity:1;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+    <path style="fill:url(#linearGradient4239);fill-opacity:1;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 287.96677,919.53309 -0.0712,13.28835 -37.61966,-24.47272 -0.14224,-23.25461 37.83301,34.43898 z" id="path4205" sodipodi:nodetypes="ccccc"/>
+    <path sodipodi:nodetypes="ccccc" id="path4207" d="m 288.39347,903.91927 0.0712,13.28835 -38.18858,-35.54634 0.21334,-23.14386 37.90413,45.40185 z" style="fill:url(#linearGradient4241);fill-opacity:1;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+    <path style="fill:url(#linearGradient4243);fill-opacity:1;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 288.74905,886.75515 -0.0712,12.95614 -38.18857,-45.73407 0.0712,-22.14722 38.1886,54.92515 z" id="path4209" sodipodi:nodetypes="ccccc"/>
+    <path style="fill:url(#linearGradient4245);fill-opacity:1;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 288.89128,871.25209 -38.40194,-65.88808 0.0712,21.15064 38.25971,57.36136 0.0712,-12.62392 z" id="path4211"/>
+    <path style="fill:url(#linearGradient4247);fill-opacity:1;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 286.11781,865.93674 -1.42232,94.79023" id="path4213"/>
+    <path id="path4215" d="m 282.41983,859.7355 -1.42229,94.79024" style="fill:url(#linearGradient4249);fill-opacity:1;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+    <path style="fill:url(#linearGradient4251);fill-opacity:1;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 282.41983,859.73551 -1.42229,99.66264" id="path4217"/>
+    <path id="path4219" d="m 275.59281,850.43368 -1.42227,107.1927" style="fill:url(#linearGradient4253);fill-opacity:1;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+    <path style="fill:url(#linearGradient4255);fill-opacity:1;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 266.7746,834.48767 -1.42228,121.80987" id="path4221"/>
+    <path id="path4223" d="m 257.67193,817.21282 -1.42229,136.42706" style="fill:url(#linearGradient4257);fill-opacity:1;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+    <path style="fill:url(#linearGradient4259);fill-opacity:1;stroke:#96a9c0;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 283.17742,859.7355 -1.42229,94.79024" id="path4225"/>
+    <path id="path4227" d="M 267.53219,834.48767 266.1099,956.29754" style="fill:url(#linearGradient4261);fill-opacity:1;stroke:#96a9c0;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+    <path style="fill:url(#linearGradient4263);fill-opacity:1;stroke:#96a9c0;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 258.42953,817.21282 -1.42231,136.42706" id="path4229"/>
+    <path style="fill:none;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 0.0625,971.65798 0,0 z" id="path4289"/>
+    <path style="fill:#2e3436;fill-opacity:1;stroke:#000000;stroke-width:0.12384434px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 145.75684,980.57335 54.57804,17.98347 0.38984,52.31558 33.91634,-9.8092 -0.77968,-52.31555 -32.35698,9.80917 -55.74756,-17.98347 z" id="path4291"/>
+    <path style="fill:#2e3436;fill-opacity:1;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 233.08168,989.4384 -2.51483,41.7739 55.92335,-22.432 1.55937,-30.62469 -54.96789,11.28279 z" id="path4293" sodipodi:nodetypes="ccccc"/>
+    <path style="fill:none;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 145.36701,999.91528 53.79832,50.77252" id="path4295"/>
+    <path style="fill:#2e3436;fill-opacity:1;stroke:#000000;stroke-width:0.12384434px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 42.36975,970.48476 1.13922,21.38344 157.21575,60.4315 0,-60.4315 -158.35497,-21.38344 z" id="path4297"/>
+    <path style="fill:none;stroke:#eac72c;stroke-width:0.55729949;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.11459897, 0.5572995;stroke-dashoffset:0" d="m 44.21939,984.65036 c 0,0 78.10021,26.51494 114.78543,29.46544 47.90831,3.8532 139.55905,-27.40345 139.55905,-27.40345" id="path4301" sodipodi:nodetypes="csc"/>
+    <path style="fill:#babdb6;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 216.90982,956.2624 2.54957,3.08802 -3.2183,71.06068 5.34989,-0.7724 -4.68116,-73.3763 z" id="path4373" sodipodi:nodetypes="ccccc"/>
+    <path sodipodi:type="arc" style="opacity:0.87368421;fill:#fcaf3e;fill-opacity:1;stroke:#eac72c;stroke-width:3.98425674;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:7.96851395, 3.98425697;stroke-dashoffset:0" id="path4375" sodipodi:cx="-681.80939" sodipodi:cy="527.73004" sodipodi:rx="53.100422" sodipodi:ry="65.844521" d="m -628.70897,527.73004 a 53.100422,65.844521 0 1 1 -106.20084,0 53.100422,65.844521 0 1 1 106.20084,0 z" transform="matrix(0.13015253,0,0,0.15032459,305.9834,869.59399)"/>
+    <path sodipodi:nodetypes="ccccc" id="path8332" d="m 255.66199,960.58393 1.89446,1.85734 -2.39136,42.74053 3.97523,-0.4645 -3.47833,-44.13337 z" style="fill:#babdb6;stroke:#000000;stroke-width:0.12384433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+    <path transform="matrix(0.09670983,0,0,0.09041518,321.84809,908.45579)" d="m -628.70897,527.73004 a 53.100422,65.844521 0 1 1 -106.20084,0 53.100422,65.844521 0 1 1 106.20084,0 z" sodipodi:ry="65.844521" sodipodi:rx="53.100422" sodipodi:cy="527.73004" sodipodi:cx="-681.80939" id="path8334" style="opacity:0.87368421;fill:#fcaf3e;fill-opacity:1;stroke:#eac72c;stroke-width:5.95981312;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:11.91962778, 5.95981387;stroke-dashoffset:0" sodipodi:type="arc"/>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Open Clip Art Library</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>commercial building</dc:title>
+        <dc:date>2010-07-07T23:22:55</dc:date>
+        <dc:description>real estate clipart</dc:description>
+        <dc:source>http://openclipart.org/detail/71431/commercial-building-by-netalloy</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>netalloy</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>commercial building</rdf:li>
+            <rdf:li>street</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
